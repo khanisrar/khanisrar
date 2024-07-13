@@ -9,5 +9,5 @@ I'm a software developer.
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,firebase,graphql,windows&theme=light)](https://skillicons.dev)
 
 ## Have a look at my projects
-[https://ahmad-raza.vercel.app/](https://khanisrar.netlify.app/)
+[[https://khanisrar.netlify.app/](https://khanisrar.netlify.app/)]
 

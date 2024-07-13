@@ -6,7 +6,7 @@ I'm a software developer.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,materialui&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,firebase,graphql,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,graphql,windows&theme=light)](https://skillicons.dev)
 
 ## Have a look at my projects
 [[https://khanisrar.netlify.app/](https://khanisrar.netlify.app/)]

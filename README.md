@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi! My name is Israr Khan
+I'm a software developer.
 
-<!--
-**khanisrar/khanisrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stack
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,express,mongodb,jquery,nextjs,redux,postman,&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,materialui&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,firebase,graphql,windows&theme=light)](https://skillicons.dev)
+
+## Have a look at my projects
+[https://ahmad-raza.vercel.app/](https://khanisrar.netlify.app/)
+
